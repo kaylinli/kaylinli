@@ -8,3 +8,4 @@ I'm a student at Carnegie Mellon University, majoring in Statistics and Machine 
 
 Past projects:
 - Building a website for Sentence Mosaics, a speech-language therapy app. Check it out at <a href="https://sentencemosaics.com/">https://sentencemosaics.com/</a>
+- Desigining a Chrome extension for productivity, with a todo list and dark mode!
